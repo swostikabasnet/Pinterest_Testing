@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "email": "swostikabasnet78@gmail.com",
+    "password": "@pinterest1"
+  },
+  "invalidUser": {
+    "email": "incorrect_userg@gmail.com",
+    "password": "incorrect_password",
+    "emptyEmail": "",
+    "emptyPassword": ""
+  }
+}
